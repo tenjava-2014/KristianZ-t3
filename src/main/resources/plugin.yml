@@ -1,0 +1,3 @@
+name: KristianZ-t3
+main: com.tenjava.entries.KristianZ.t3.TenJava
+version: '${project.version}'
